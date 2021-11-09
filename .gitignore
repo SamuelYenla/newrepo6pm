@@ -4,3 +4,5 @@
 *.net
 
 [aeiou]*.php
+
+!third.net
